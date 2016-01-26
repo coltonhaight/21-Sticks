@@ -61,7 +61,7 @@ public class sticks
 								numOfPull = userInput.nextInt();
 								numOfSticks -= numOfPull;
 									{
-										System.out.println("There are now " + numOfSticks + " sticks in the pile.");
+										System.out.println("There are now " + numOfSticks + " sticks in the pile."); //githubtester
 									}
 
 							}
